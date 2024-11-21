@@ -10,7 +10,5 @@ int main() {
 
     printf("123\n");
 
-    printf("大家好\n");
-
     return 0;
 }
