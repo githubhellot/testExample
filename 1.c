@@ -6,9 +6,7 @@ int main() {
     // 尝试访问空指针指向的内存，这会引发段错误
     *ptr = 10;  
 	
-    printf("hello\n");
-
-    printf("world\n");
+    printf("Hello!World!\n");
 
     printf("123\n");
 
